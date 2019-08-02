@@ -1,6 +1,6 @@
-Running the program
+Run the program
  	command : javac Main.java
 	Command : java Main
 
-Stopping the simulation
+Stop the simulation
 	Press any key
